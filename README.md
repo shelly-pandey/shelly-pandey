@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am shelly
+I am shelly and I am 
 Open for hire.
 
 👩‍💻I have a passion for creating websites with sound problem solving skills. Have knowledge & hand's on working various technologies: 
