@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full stack project
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on Front end technologies like 
+- 👯 I’m looking to collaborate on Front end projects which require technologies like HTML, CSS, JavaScript, Typescript, React JS(redux too) with nodejs.
 - 📫 How to reach me: shellypandey88@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Content Creator, trained fitness instructer
--->
+
