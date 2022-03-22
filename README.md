@@ -1,10 +1,4 @@
-<p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    
-    
-</p>
 
-![](./src/header_.png)
 
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shelly+Pandey;+Welcome+to+My+Profile!;Full+stack+developer;Always+learning+new+things+;Coding+enthusiast)](https://git.io/typing-svg)
