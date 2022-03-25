@@ -26,7 +26,7 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="mailto:shellypandey88@gmail.com" target="blank"><img align="center" src="gmail" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:shellypandey88@gmail.com" target="blank"></a>
 
 </p>
 
